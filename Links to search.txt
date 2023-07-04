@@ -1,0 +1,7 @@
+site:linkedin.com/in and "Aurobindo Pharma Ltd" and "talent acquisition" and intitle:Sr.
+
+site:linkedin.com/in AND "Aurobindo Pharma Ltd" AND "Talent Acquisition" AND intitle:HEAD
+
+site:linkedin.com/in AND "Aurobindo Pharma Ltd" AND "Talent Acquisition" AND intitle:Assistant manager - Talent Acquisition
+
+site:linkedin.com/in AND "Aurobindo Pharma Ltd" AND ("Talent Acquisition" OR "HUMAN RESOURCE" )
